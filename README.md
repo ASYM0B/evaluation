@@ -1,5 +1,5 @@
 # ASYM0B
-ASYM0B (**A** framework for **SY**ste**M**atically assessment chat**B**ots) is a framework to analyse and assess conversational agents or chatbots built in different tools. To support chatbots from different platforms, ASYM0B relies on a neutral chatbot definition called CONGA. 
+ASYM0B (**A** framework for **SY**ste**M**atically assessment **O**f chat**B**ots) is a framework to analyse and assess conversational agents or chatbots built in different tools. To support chatbots from different platforms, ASYM0B relies on a neutral chatbot definition called CONGA. 
 
 This repository contains twelve chatbots (six from Dialogflow, and six from Rasa) used for an evaluation. The list below shows the content of each folder: 
 - **Rasa Folder:** contains the CONGA definition of six Rasa chatbots. 
