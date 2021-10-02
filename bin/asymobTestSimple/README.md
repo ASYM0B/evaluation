@@ -3,14 +3,11 @@ This is a simple program to illustrate the usage of the ASYM0B metrics.
 
 There is no requirements to execute the asymobTestSimple.
 
+## Results
+
 Result of the execution:
 (BotName: bikeShop | Intents: 5 | Entities: 1 | Flows: 4 | Actions: 8)
 
-doAnalyse - Init
-analyseIntentMetrics - Analysing intent metrics
-analyseIntentMetrics - Analysing entity metrics
-analyseIntentMetrics - Analysing flow metrics
-analyseIntentMetrics - Analysing bot metrics
 ============================
 BOT METRICS: 
  * ENT = 1 [eInt]
@@ -27,17 +24,19 @@ BOT METRICS:
  * TPI = 2.60 [eFloat]
  * WPTP = 3.48 [eFloat]
  * PPTP = 0.60 [eFloat]
- *  = -1.00 [eFloat]
  * CPOP = 55.20 [eFloat]
+
 ============================
 ENTITY METRICS: 
  * AppointmentType [LPE = 2 | ESPL = 5.50 | EWL = 6.64 | ]
+
 ============================
 FLOW METRICS: 
  * Make Appointment [FPATH = 1 | FFL = 2 | FFACT = 2.00 | ]
  * Welcome Intent [FPATH = 1 | FFL = 1 | FFACT = 2.00 | ]
  * Hours [FPATH = 1 | FFL = 1 | FFACT = 3.00 | ]
  * Fallback Intent [FPATH = 1 | FFL = 1 | FFACT = 1.00 | ]
+
 ============================
 INTENT METRICS: 
  * Make Appointment - custom [INTP = 2 | IWPTP = 4.50 | ICPTP = 16.50 | INP = 1 | ]
