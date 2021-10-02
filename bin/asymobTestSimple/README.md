@@ -5,10 +5,6 @@ There is no requirements to execute the asymobTestSimple.
 
 ## Results
 
-Result of the execution:
-(BotName: bikeShop | Intents: 5 | Entities: 1 | Flows: 4 | Actions: 8)
-
-============================
 BOT METRICS: 
  * ENT = 1 [eInt]
  * INT = 5 [eInt]
@@ -26,18 +22,15 @@ BOT METRICS:
  * PPTP = 0.60 [eFloat]
  * CPOP = 55.20 [eFloat]
 
-============================
 ENTITY METRICS: 
  * AppointmentType [LPE = 2 | ESPL = 5.50 | EWL = 6.64 | ]
 
-============================
 FLOW METRICS: 
  * Make Appointment [FPATH = 1 | FFL = 2 | FFACT = 2.00 | ]
  * Welcome Intent [FPATH = 1 | FFL = 1 | FFACT = 2.00 | ]
  * Hours [FPATH = 1 | FFL = 1 | FFACT = 3.00 | ]
  * Fallback Intent [FPATH = 1 | FFL = 1 | FFACT = 1.00 | ]
 
-============================
 INTENT METRICS: 
  * Make Appointment - custom [INTP = 2 | IWPTP = 4.50 | ICPTP = 16.50 | INP = 1 | ]
  * Welcome Intent [INTP = 1 | IWPTP = 1.00 | ICPTP = 5.00 | INP = 0 | ]
