@@ -4,7 +4,8 @@ This is a simple program to illustrate the usage of the ASYM0B metrics.
 There is no requirements to execute the asymobTestSimple.
 
 Result of the execution:
-[BotName: bikeShop | Intents: 5 | Entities: 1 | Flows: 4 | Actions: 8 ]
+(BotName: bikeShop | Intents: 5 | Entities: 1 | Flows: 4 | Actions: 8)
+
 doAnalyse - Init
 analyseIntentMetrics - Analysing intent metrics
 analyseIntentMetrics - Analysing entity metrics
