@@ -1,5 +1,5 @@
 # ASYM0B
-This is a simple program to illustrate the usage of the ASYM0B metrics. 
+This is a program to illustrate the usage of the ASYM0B metrics. 
 
 #Requirements
 Models dependencies:
